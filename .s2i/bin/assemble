@@ -1,0 +1,2 @@
+cp -Rf /tmp/src/. $CATALINA_HOME/webapps
+echo "WAR's copied"
